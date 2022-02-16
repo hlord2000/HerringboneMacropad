@@ -333,7 +333,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "herringbone_macro_pad.kicad_pro",
+    "filename": "herringbone_base_layer.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -367,7 +367,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../3D files/herringbone_base_layer.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
