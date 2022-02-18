@@ -1,0 +1,802 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\Helmut Lord\Documents\HerringbonePad\herringbone_macro_pad\PCB\herringbone_macro_pad.kicad_sch</source>
+    <date>2/16/2022 10:19:34 PM</date>
+    <tool>Eeschema (6.0.1)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>herringbone_macro_pad.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>22p</value>
+      <footprint>Keebio-Parts:C_0603</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="herringbone_macro_pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b2f2a1bf-1470-4bb6-8a61-27c69790e7ec</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>22p</value>
+      <footprint>Keebio-Parts:C_0603</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="herringbone_macro_pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>841a1db8-bfc9-43a7-bd56-517f89c0e74a</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>22u</value>
+      <footprint>Keebio-Parts:C_0603</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="herringbone_macro_pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3a4450ef-578a-48a2-ad9b-d02d09aa48b8</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>10u</value>
+      <footprint>Keebio-Parts:C_0603</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="herringbone_macro_pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>354e5bc3-c898-4f6e-87e8-9d56d5419af7</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>4.7u</value>
+      <footprint>Keebio-Parts:C_0603</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="herringbone_macro_pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8f7b038f-d5fb-4df5-839b-bf5acbdd51a3</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>100n</value>
+      <footprint>Keebio-Parts:C_0603</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="herringbone_macro_pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>417dbe75-b1aa-41b6-95d8-c35bb6788971</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>100n</value>
+      <footprint>Keebio-Parts:C_0603</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="herringbone_macro_pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5743ab92-fa00-4232-884c-bdeccc3c053e</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>100n</value>
+      <footprint>Keebio-Parts:C_0603</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="herringbone_macro_pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>abb19daf-278c-4a9f-909e-bbaa38aa7e8d</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>100n</value>
+      <footprint>Keebio-Parts:C_0603</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="herringbone_macro_pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9152cfca-f3e8-4a35-9ef1-da897555e49f</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>10n</value>
+      <footprint>Keebio-Parts:C_0603</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="herringbone_macro_pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7b2b8c11-7ffd-4cf9-99e8-6e277d082fb5</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>1u</value>
+      <footprint>Keebio-Parts:C_0603</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="herringbone_macro_pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0ecef79a-72b7-4828-a865-99a5981d024a</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>0.1u</value>
+      <footprint>Keebio-Parts:C_0603</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="herringbone_macro_pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>033205e2-8ba7-42f6-a75c-4552d7a12f3e</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>D_Small</value>
+      <footprint>Keebio-Parts:D_0805</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="herringbone_macro_pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e22a97fe-a341-4dfa-a184-2f47f354273d</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Screw_Terminal_01x04</value>
+      <footprint>Connector_JST:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x04" description="Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="herringbone_macro_pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>33e536bc-c4d4-404b-9a8d-3ca8411c4325</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>5.1k</value>
+      <footprint>Keebio-Parts:R_0603</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="herringbone_macro_pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6e92fc77-8209-4f47-9c08-39bf150f73ca</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>5.1k</value>
+      <footprint>Keebio-Parts:R_0603</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="herringbone_macro_pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>697d909a-e6fc-428c-aba5-823fe93fa5a6</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>10k</value>
+      <footprint>Keebio-Parts:R_0603</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="herringbone_macro_pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ce1f495d-3490-444b-bd8e-d4a28fde77c5</tstamps>
+    </comp>
+    <comp ref="SW1">
+      <value>CherryMX_2.75u_PCB_StabWireBottom</value>
+      <footprint>CherryMX_PCB_StabWireBottom:CherryMX_2.75u_PCB_StabWireBottom</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="herringbone_macro_pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d59a2992-e03e-4564-9425-a192c236124a</tstamps>
+    </comp>
+    <comp ref="SW2">
+      <value>CherryMX_1.00u_PCB</value>
+      <footprint>CherryMX_PCB:CherryMX_1.00u_PCB</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="herringbone_macro_pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0ae9a38a-f5bb-484c-8ca5-aed23c105d6b</tstamps>
+    </comp>
+    <comp ref="SW3">
+      <value>CherryMX_2.75u_PCB_StabWireBottom</value>
+      <footprint>CherryMX_PCB_StabWireBottom:CherryMX_2.75u_PCB_StabWireBottom</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="herringbone_macro_pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>976e7fce-251a-48fe-8250-6cf43de34604</tstamps>
+    </comp>
+    <comp ref="SW4">
+      <value>CherryMX_2.75u_PCB_StabWireBottom</value>
+      <footprint>CherryMX_PCB_StabWireBottom:CherryMX_2.75u_PCB_StabWireBottom</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="herringbone_macro_pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a70d7a2e-2222-4fad-832e-ec57bcf7f2a2</tstamps>
+    </comp>
+    <comp ref="SW5">
+      <value>CherryMX_1.00u_PCB</value>
+      <footprint>CherryMX_PCB:CherryMX_1.00u_PCB</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="herringbone_macro_pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4cfdd1e1-f30f-420d-9a03-56113f347020</tstamps>
+    </comp>
+    <comp ref="SW6">
+      <value>CherryMX_2.75u_PCB_StabWireBottom</value>
+      <footprint>CherryMX_PCB_StabWireBottom:CherryMX_2.75u_PCB_StabWireBottom</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="herringbone_macro_pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>22ca8f0e-37d5-4be6-94dd-775c3f98873e</tstamps>
+    </comp>
+    <comp ref="SW7">
+      <value>CherryMX_2.75u_PCB_StabWireBottom</value>
+      <footprint>CherryMX_PCB_StabWireBottom:CherryMX_2.75u_PCB_StabWireBottom</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="herringbone_macro_pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a2fa8c24-ce42-4c84-9a7f-742c203d0972</tstamps>
+    </comp>
+    <comp ref="SW8">
+      <value>CherryMX_1.00u_PCB</value>
+      <footprint>CherryMX_PCB:CherryMX_1.00u_PCB</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="herringbone_macro_pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4246300f-2ac1-44e5-ada8-877981274f31</tstamps>
+    </comp>
+    <comp ref="SW9">
+      <value>CherryMX_2.75u_PCB_StabWireBottom</value>
+      <footprint>CherryMX_PCB_StabWireBottom:CherryMX_2.75u_PCB_StabWireBottom</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="herringbone_macro_pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d8dbba7d-dcf1-4f46-bd3e-72675d6f05e2</tstamps>
+    </comp>
+    <comp ref="SW10">
+      <value>CherryMX_1.00u_PCB</value>
+      <footprint>CherryMX_PCB:CherryMX_1.00u_PCB</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="herringbone_macro_pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>103b6b10-7824-4780-9bca-af85f3068bfd</tstamps>
+    </comp>
+    <comp ref="SW11">
+      <value>SW_Push</value>
+      <footprint>Keebio-Parts:SW_SPST_TL3342</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="herringbone_macro_pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>267cca0a-6824-4d2c-95d0-c1f4f2292315</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>SRV05-4</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-6</footprint>
+      <datasheet>http://www.onsemi.com/pub/Collateral/SRV05-4-D.PDF</datasheet>
+      <libsource lib="Power_Protection" part="SRV05-4" description="ESD Protection Diodes with Low Clamping Voltage, SOT-23-6"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="herringbone_macro_pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b38d53ee-2b58-490b-b9a8-0fa94f21b127</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>AMS1117</value>
+      <footprint>Package_TO_SOT_SMD:SOT-223-3_TabPin2</footprint>
+      <datasheet>http://www.advanced-monolithic.com/pdf/ds1117.pdf</datasheet>
+      <libsource lib="Regulator_Linear" part="AMS1117" description="1A Low Dropout regulator, positive, adjustable output, SOT-223"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="herringbone_macro_pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cc751fd0-60b6-4e00-b784-ac613ce85ce3</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>STM32L151C8TxA</value>
+      <footprint>Package_QFP:LQFP-48_7x7mm_P0.5mm</footprint>
+      <datasheet>http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00277537.pdf</datasheet>
+      <libsource lib="MCU_ST_STM32L1" part="STM32L151C8TxA" description="ARM Cortex-M3 MCU, 64KB flash, 32KB RAM, 32MHz, 1.65-3.6V, 37 GPIO, LQFP-48"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="herringbone_macro_pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9d08c0e1-29ee-4649-9b6a-c2c24fe61c27</tstamps>
+    </comp>
+    <comp ref="USB1">
+      <value>C167321</value>
+      <footprint>Keebio-Parts:HRO-TYPE-C-31-M-12-Assembly</footprint>
+      <libsource lib="keebio" part="HRO-TYPE-C-31-M-12" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="herringbone_macro_pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2876ea08-dbfc-46bf-92d1-4678adaf3a0d</tstamps>
+    </comp>
+    <comp ref="Y1">
+      <value>Crystal</value>
+      <footprint>Crystal:Crystal_SMD_0603-2Pin_6.0x3.5mm</footprint>
+      <libsource lib="Device" part="Crystal" description="Two pin crystal"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="herringbone_macro_pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>216be891-4156-490a-8874-85d7a87e9b75</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="Screw_Terminal_01x04">
+      <description>Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TerminalBlock*:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Screw_Terminal_01x04</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Crystal">
+      <description>Two pin crystal</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Crystal*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Y</field>
+        <field name="Value">Crystal</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D_Small">
+      <description>Diode, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small_US">
+      <description>Resistor, small US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small_US</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MCU_ST_STM32L1" part="STM32L151C8TxA">
+      <description>ARM Cortex-M3 MCU, 64KB flash, 32KB RAM, 32MHz, 1.65-3.6V, 37 GPIO, LQFP-48</description>
+      <docs>http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00277537.pdf</docs>
+      <footprints>
+        <fp>LQFP*7x7mm*P0.5mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">STM32L151C8TxA</field>
+        <field name="Footprint">Package_QFP:LQFP-48_7x7mm_P0.5mm</field>
+        <field name="Datasheet">http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00277537.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VLCD" type="power_in"/>
+        <pin num="2" name="PC13" type="bidirectional"/>
+        <pin num="3" name="PC14" type="bidirectional"/>
+        <pin num="4" name="PC15" type="bidirectional"/>
+        <pin num="5" name="PH0" type="input"/>
+        <pin num="6" name="PH1" type="input"/>
+        <pin num="7" name="NRST" type="input"/>
+        <pin num="8" name="VSSA" type="power_in"/>
+        <pin num="9" name="VDDA" type="power_in"/>
+        <pin num="10" name="PA0" type="bidirectional"/>
+        <pin num="11" name="PA1" type="bidirectional"/>
+        <pin num="12" name="PA2" type="bidirectional"/>
+        <pin num="13" name="PA3" type="bidirectional"/>
+        <pin num="14" name="PA4" type="bidirectional"/>
+        <pin num="15" name="PA5" type="bidirectional"/>
+        <pin num="16" name="PA6" type="bidirectional"/>
+        <pin num="17" name="PA7" type="bidirectional"/>
+        <pin num="18" name="PB0" type="bidirectional"/>
+        <pin num="19" name="PB1" type="bidirectional"/>
+        <pin num="20" name="PB2" type="bidirectional"/>
+        <pin num="21" name="PB10" type="bidirectional"/>
+        <pin num="22" name="PB11" type="bidirectional"/>
+        <pin num="23" name="VSS" type="power_in"/>
+        <pin num="24" name="VDD" type="power_in"/>
+        <pin num="25" name="PB12" type="bidirectional"/>
+        <pin num="26" name="PB13" type="bidirectional"/>
+        <pin num="27" name="PB14" type="bidirectional"/>
+        <pin num="28" name="PB15" type="bidirectional"/>
+        <pin num="29" name="PA8" type="bidirectional"/>
+        <pin num="30" name="PA9" type="bidirectional"/>
+        <pin num="31" name="PA10" type="bidirectional"/>
+        <pin num="32" name="PA11" type="bidirectional"/>
+        <pin num="33" name="PA12" type="bidirectional"/>
+        <pin num="34" name="PA13" type="bidirectional"/>
+        <pin num="35" name="VSS" type="power_in"/>
+        <pin num="36" name="VDD" type="power_in"/>
+        <pin num="37" name="PA14" type="bidirectional"/>
+        <pin num="38" name="PA15" type="bidirectional"/>
+        <pin num="39" name="PB3" type="bidirectional"/>
+        <pin num="40" name="PB4" type="bidirectional"/>
+        <pin num="41" name="PB5" type="bidirectional"/>
+        <pin num="42" name="PB6" type="bidirectional"/>
+        <pin num="43" name="PB7" type="bidirectional"/>
+        <pin num="44" name="BOOT0" type="input"/>
+        <pin num="45" name="PB8" type="bidirectional"/>
+        <pin num="46" name="PB9" type="bidirectional"/>
+        <pin num="47" name="VSS" type="power_in"/>
+        <pin num="48" name="VDD" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Power_Protection" part="SRV05-4">
+      <description>ESD Protection Diodes with Low Clamping Voltage, SOT-23-6</description>
+      <docs>http://www.onsemi.com/pub/Collateral/SRV05-4-D.PDF</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">SRV05-4</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23-6</field>
+        <field name="Datasheet">http://www.onsemi.com/pub/Collateral/SRV05-4-D.PDF</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IO1" type="passive"/>
+        <pin num="2" name="VN" type="passive"/>
+        <pin num="3" name="IO2" type="passive"/>
+        <pin num="4" name="IO3" type="passive"/>
+        <pin num="5" name="VP" type="passive"/>
+        <pin num="6" name="IO4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Linear" part="AMS1117">
+      <description>1A Low Dropout regulator, positive, adjustable output, SOT-223</description>
+      <docs>http://www.advanced-monolithic.com/pdf/ds1117.pdf</docs>
+      <footprints>
+        <fp>SOT?223*TabPin2*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">AMS1117</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-223-3_TabPin2</field>
+        <field name="Datasheet">http://www.advanced-monolithic.com/pdf/ds1117.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="ADJ" type="input"/>
+        <pin num="2" name="VO" type="power_out"/>
+        <pin num="3" name="VI" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch" part="SW_Push">
+      <description>Push button switch, generic, two pins</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_Push</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="keebio" part="HRO-TYPE-C-31-M-12">
+      <fields>
+        <field name="Reference">USB</field>
+        <field name="Value">HRO-TYPE-C-31-M-12</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="input"/>
+        <pin num="2" name="VBUS" type="input"/>
+        <pin num="3" name="SBU2" type="input"/>
+        <pin num="4" name="CC1" type="input"/>
+        <pin num="5" name="DN2" type="input"/>
+        <pin num="6" name="DP1" type="input"/>
+        <pin num="7" name="DN1" type="input"/>
+        <pin num="8" name="DP2" type="input"/>
+        <pin num="9" name="SBU1" type="input"/>
+        <pin num="10" name="CC2" type="input"/>
+        <pin num="11" name="VBUS" type="input"/>
+        <pin num="12" name="GND" type="input"/>
+        <pin num="13" name="SHIELD" type="input"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="MCU_ST_STM32L1">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/MCU_ST_STM32L1.kicad_sym</uri>
+    </library>
+    <library logical="Power_Protection">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Power_Protection.kicad_sym</uri>
+    </library>
+    <library logical="Regulator_Linear">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Regulator_Linear.kicad_sym</uri>
+    </library>
+    <library logical="Switch">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Switch.kicad_sym</uri>
+    </library>
+    <library logical="keebio">
+      <uri>C:/Users/Helmut Lord/Documents/HerringbonePad/keebio-components/keebio.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3.3VA">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="VO" pintype="power_out"/>
+      <node ref="U3" pin="24" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U3" pin="36" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U3" pin="48" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U3" pin="9" pinfunction="VDDA" pintype="power_in"/>
+    </net>
+    <net code="2" name="+5V">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="VP" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="VI" pintype="power_in"/>
+      <node ref="USB1" pin="11" pinfunction="VBUS" pintype="input"/>
+      <node ref="USB1" pin="2" pinfunction="VBUS" pintype="input"/>
+    </net>
+    <net code="3" name="/CLK_IN">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="U3" pin="5" pinfunction="PH0" pintype="input"/>
+      <node ref="Y1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="4" name="/CLK_OUT">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="U3" pin="6" pinfunction="PH1" pintype="input"/>
+      <node ref="Y1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="5" name="/D1+">
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="IO1" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="IO3" pintype="passive"/>
+      <node ref="U3" pin="33" pinfunction="PA12" pintype="bidirectional"/>
+      <node ref="USB1" pin="6" pinfunction="DP1" pintype="input"/>
+      <node ref="USB1" pin="8" pinfunction="DP2" pintype="input"/>
+    </net>
+    <net code="6" name="/D1-">
+      <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="IO2" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="IO4" pintype="passive"/>
+      <node ref="U3" pin="32" pinfunction="PA11" pintype="bidirectional"/>
+      <node ref="USB1" pin="5" pinfunction="DN2" pintype="input"/>
+      <node ref="USB1" pin="7" pinfunction="DN1" pintype="input"/>
+    </net>
+    <net code="7" name="/RST">
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="SW11" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U3" pin="7" pinfunction="NRST" pintype="input"/>
+    </net>
+    <net code="8" name="/SW_0">
+      <node ref="SW1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U3" pin="20" pinfunction="PB2" pintype="bidirectional"/>
+    </net>
+    <net code="9" name="/SW_1">
+      <node ref="SW3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U3" pin="22" pinfunction="PB11" pintype="bidirectional"/>
+    </net>
+    <net code="10" name="/SW_2">
+      <node ref="SW5" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U3" pin="17" pinfunction="PA7" pintype="bidirectional"/>
+    </net>
+    <net code="11" name="/SW_3">
+      <node ref="SW7" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U3" pin="18" pinfunction="PB0" pintype="bidirectional"/>
+    </net>
+    <net code="12" name="/SW_4">
+      <node ref="SW9" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U3" pin="38" pinfunction="PA15" pintype="bidirectional"/>
+    </net>
+    <net code="13" name="/SW_5">
+      <node ref="SW2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U3" pin="21" pinfunction="PB10" pintype="bidirectional"/>
+    </net>
+    <net code="14" name="/SW_6">
+      <node ref="SW4" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U3" pin="19" pinfunction="PB1" pintype="bidirectional"/>
+    </net>
+    <net code="15" name="/SW_7">
+      <node ref="SW6" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U3" pin="37" pinfunction="PA14" pintype="bidirectional"/>
+    </net>
+    <net code="16" name="/SW_8">
+      <node ref="SW8" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U3" pin="40" pinfunction="PB4" pintype="bidirectional"/>
+    </net>
+    <net code="17" name="/SW_9">
+      <node ref="SW10" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U3" pin="39" pinfunction="PB3" pintype="bidirectional"/>
+    </net>
+    <net code="18" name="GND">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="SW1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW10" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW11" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW3" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW4" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW5" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW6" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW7" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW8" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW9" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="VN" pintype="passive"/>
+      <node ref="U3" pin="23" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U3" pin="35" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U3" pin="47" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U3" pin="8" pinfunction="VSSA" pintype="power_in"/>
+      <node ref="USB1" pin="1" pinfunction="GND" pintype="input"/>
+      <node ref="USB1" pin="12" pinfunction="GND" pintype="input"/>
+      <node ref="USB1" pin="13" pinfunction="SHIELD" pintype="input"/>
+    </net>
+    <net code="19" name="Net-(C4-Pad1)">
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="U2" pin="1" pinfunction="ADJ" pintype="input"/>
+    </net>
+    <net code="20" name="Net-(R1-Pad2)">
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="USB1" pin="4" pinfunction="CC1" pintype="input"/>
+    </net>
+    <net code="21" name="Net-(R2-Pad2)">
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="USB1" pin="10" pinfunction="CC2" pintype="input"/>
+    </net>
+    <net code="22" name="unconnected-(U3-Pad1)">
+      <node ref="U3" pin="1" pinfunction="VLCD" pintype="power_in"/>
+    </net>
+    <net code="23" name="unconnected-(U3-Pad2)">
+      <node ref="U3" pin="2" pinfunction="PC13" pintype="bidirectional"/>
+    </net>
+    <net code="24" name="unconnected-(U3-Pad3)">
+      <node ref="U3" pin="3" pinfunction="PC14" pintype="bidirectional"/>
+    </net>
+    <net code="25" name="unconnected-(U3-Pad4)">
+      <node ref="U3" pin="4" pinfunction="PC15" pintype="bidirectional"/>
+    </net>
+    <net code="26" name="unconnected-(U3-Pad10)">
+      <node ref="U3" pin="10" pinfunction="PA0" pintype="bidirectional"/>
+    </net>
+    <net code="27" name="unconnected-(U3-Pad11)">
+      <node ref="U3" pin="11" pinfunction="PA1" pintype="bidirectional"/>
+    </net>
+    <net code="28" name="unconnected-(U3-Pad12)">
+      <node ref="U3" pin="12" pinfunction="PA2" pintype="bidirectional"/>
+    </net>
+    <net code="29" name="unconnected-(U3-Pad13)">
+      <node ref="U3" pin="13" pinfunction="PA3" pintype="bidirectional"/>
+    </net>
+    <net code="30" name="unconnected-(U3-Pad14)">
+      <node ref="U3" pin="14" pinfunction="PA4" pintype="bidirectional"/>
+    </net>
+    <net code="31" name="unconnected-(U3-Pad15)">
+      <node ref="U3" pin="15" pinfunction="PA5" pintype="bidirectional"/>
+    </net>
+    <net code="32" name="unconnected-(U3-Pad16)">
+      <node ref="U3" pin="16" pinfunction="PA6" pintype="bidirectional"/>
+    </net>
+    <net code="33" name="unconnected-(U3-Pad25)">
+      <node ref="U3" pin="25" pinfunction="PB12" pintype="bidirectional"/>
+    </net>
+    <net code="34" name="unconnected-(U3-Pad26)">
+      <node ref="U3" pin="26" pinfunction="PB13" pintype="bidirectional"/>
+    </net>
+    <net code="35" name="unconnected-(U3-Pad27)">
+      <node ref="U3" pin="27" pinfunction="PB14" pintype="bidirectional"/>
+    </net>
+    <net code="36" name="unconnected-(U3-Pad28)">
+      <node ref="U3" pin="28" pinfunction="PB15" pintype="bidirectional"/>
+    </net>
+    <net code="37" name="unconnected-(U3-Pad29)">
+      <node ref="U3" pin="29" pinfunction="PA8" pintype="bidirectional"/>
+    </net>
+    <net code="38" name="unconnected-(U3-Pad30)">
+      <node ref="U3" pin="30" pinfunction="PA9" pintype="bidirectional"/>
+    </net>
+    <net code="39" name="unconnected-(U3-Pad31)">
+      <node ref="U3" pin="31" pinfunction="PA10" pintype="bidirectional"/>
+    </net>
+    <net code="40" name="unconnected-(U3-Pad34)">
+      <node ref="U3" pin="34" pinfunction="PA13" pintype="bidirectional"/>
+    </net>
+    <net code="41" name="unconnected-(U3-Pad41)">
+      <node ref="U3" pin="41" pinfunction="PB5" pintype="bidirectional"/>
+    </net>
+    <net code="42" name="unconnected-(U3-Pad42)">
+      <node ref="U3" pin="42" pinfunction="PB6" pintype="bidirectional"/>
+    </net>
+    <net code="43" name="unconnected-(U3-Pad43)">
+      <node ref="U3" pin="43" pinfunction="PB7" pintype="bidirectional"/>
+    </net>
+    <net code="44" name="unconnected-(U3-Pad44)">
+      <node ref="U3" pin="44" pinfunction="BOOT0" pintype="input"/>
+    </net>
+    <net code="45" name="unconnected-(U3-Pad45)">
+      <node ref="U3" pin="45" pinfunction="PB8" pintype="bidirectional"/>
+    </net>
+    <net code="46" name="unconnected-(U3-Pad46)">
+      <node ref="U3" pin="46" pinfunction="PB9" pintype="bidirectional"/>
+    </net>
+    <net code="47" name="unconnected-(USB1-Pad3)">
+      <node ref="USB1" pin="3" pinfunction="SBU2" pintype="input+no_connect"/>
+    </net>
+    <net code="48" name="unconnected-(USB1-Pad9)">
+      <node ref="USB1" pin="9" pinfunction="SBU1" pintype="input+no_connect"/>
+    </net>
+  </nets>
+</export>

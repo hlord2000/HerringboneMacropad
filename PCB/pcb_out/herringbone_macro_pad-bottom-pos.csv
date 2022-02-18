@@ -1,0 +1,24 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,22u,C_0603,-179.9,-51.25,0,bottom
+C2,10u,C_0603,-179.18,-61.14,-90,bottom
+C3,22p,C_0603,-166.95,-87.85,-90,bottom
+C4,22p,C_0603,-171.25,-87.85,90,bottom
+C5,100n,C_0603,-158.8,-69.55,180,bottom
+C6,0.1u,C_0603,-163.75,-83.55,-90,bottom
+C7,100n,C_0603,-159.53,-67.4,90,bottom
+C8,4.7u,C_0603,-158.79,-70.86,180,bottom
+C9,10n,C_0603,-160.86,-67.4,90,bottom
+C10,100n,C_0603,-163.55,-67.4,90,bottom
+C11,1u,C_0603,-157.25,-72.2,180,bottom
+C12,100n,C_0603,-162.2,-67.4,90,bottom
+D1,D_Small,D_SOD-123,-175.8,-57,-90,bottom
+J1,Screw_Terminal_01x04,JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal,-169.85,-56.15,-90,bottom
+R1,5.1k,R_0603,-164.39,-39.46,90,bottom
+R2,5.1k,R_0603,-159.44,-39.46,90,bottom
+R3,10k,R_0603,-161.35,-82.8,0,bottom
+SW11,SW_Push,SW_SPST_TL3342,-152.4,-83.35,0,bottom
+U1,AMS1117,SOT-223-3_TabPin2,-182.35,-55.7,0,bottom
+U2,SRV05-4,SOT-23-6,-161.92,-40.61,-90,bottom
+U3,STM32L151C8TxA,LQFP-48_7x7mm_P0.5mm,-163.99,-75.27,90,bottom
+USB1,C167321,HRO-TYPE-C-31-M-12-Assembly,-161.925,-28.575,0,bottom
+Y1,Crystal,Crystal_SMD_0603-2Pin_6.0x3.5mm,-169.140625,-83.95,0,bottom
